@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/xe-xe/Documents/Flutter/restaurant0/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_coment.xml",
+        "source": "/Users/xe-xe/Documents/Flutter/restaurant0/app/src/main/res/layout/activity_coment.xml"
+    },
+    {
+        "merged": "/Users/xe-xe/Documents/Flutter/restaurant0/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_reservation.xml",
+        "source": "/Users/xe-xe/Documents/Flutter/restaurant0/app/src/main/res/layout/activity_reservation.xml"
+    },
+    {
+        "merged": "/Users/xe-xe/Documents/Flutter/restaurant0/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_rename.xml",
+        "source": "/Users/xe-xe/Documents/Flutter/restaurant0/app/src/main/res/layout/fragment_rename.xml"
+    },
+    {
+        "merged": "/Users/xe-xe/Documents/Flutter/restaurant0/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_profile.xml",
+        "source": "/Users/xe-xe/Documents/Flutter/restaurant0/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/xe-xe/Documents/Flutter/restaurant0/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/Users/xe-xe/Documents/Flutter/restaurant0/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/xe-xe/Documents/Flutter/restaurant0/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_feedback.xml",
+        "source": "/Users/xe-xe/Documents/Flutter/restaurant0/app/src/main/res/layout/item_feedback.xml"
+    },
+    {
+        "merged": "/Users/xe-xe/Documents/Flutter/restaurant0/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_card_rest.xml",
+        "source": "/Users/xe-xe/Documents/Flutter/restaurant0/app/src/main/res/layout/item_card_rest.xml"
+    },
+    {
+        "merged": "/Users/xe-xe/Documents/Flutter/restaurant0/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_news.xml",
+        "source": "/Users/xe-xe/Documents/Flutter/restaurant0/app/src/main/res/layout/item_news.xml"
+    },
+    {
+        "merged": "/Users/xe-xe/Documents/Flutter/restaurant0/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_home.xml",
+        "source": "/Users/xe-xe/Documents/Flutter/restaurant0/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/xe-xe/Documents/Flutter/restaurant0/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_rest.xml",
+        "source": "/Users/xe-xe/Documents/Flutter/restaurant0/app/src/main/res/layout/fragment_rest.xml"
+    },
+    {
+        "merged": "/Users/xe-xe/Documents/Flutter/restaurant0/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_info.xml",
+        "source": "/Users/xe-xe/Documents/Flutter/restaurant0/app/src/main/res/layout/fragment_info.xml"
+    },
+    {
+        "merged": "/Users/xe-xe/Documents/Flutter/restaurant0/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_help.xml",
+        "source": "/Users/xe-xe/Documents/Flutter/restaurant0/app/src/main/res/layout/activity_help.xml"
+    },
+    {
+        "merged": "/Users/xe-xe/Documents/Flutter/restaurant0/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_register.xml",
+        "source": "/Users/xe-xe/Documents/Flutter/restaurant0/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/xe-xe/Documents/Flutter/restaurant0/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash.xml",
+        "source": "/Users/xe-xe/Documents/Flutter/restaurant0/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/xe-xe/Documents/Flutter/restaurant0/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/xe-xe/Documents/Flutter/restaurant0/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/xe-xe/Documents/Flutter/restaurant0/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_rename.xml",
+        "source": "/Users/xe-xe/Documents/Flutter/restaurant0/app/src/main/res/layout/activity_rename.xml"
+    },
+    {
+        "merged": "/Users/xe-xe/Documents/Flutter/restaurant0/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/xe-xe/Documents/Flutter/restaurant0/app/src/main/res/layout/fragment_home.xml"
+    }
+]

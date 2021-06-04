@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/xe-xe/Documents/Flutter/restaurant0/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "/Users/xe-xe/Documents/Flutter/restaurant0/app/src/main/res/values-v19/style.xml",
+                    "from": {
+                        "startLines": "3,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,673",
+                        "endLines": "14,18",
+                        "endColumns": "12,12",
+                        "endOffsets": "667,711"
+                    },
+                    "to": {
+                        "startLines": "2,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,671",
+                        "endLines": "13,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "666,709"
+                    }
+                }
+            ]
+        }
+    ]
+}

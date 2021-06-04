@@ -1,0 +1,96 @@
+com/app/restaurant0/fragments/InfoFragment.java
+ com.app.restaurant0.fragments.InfoFragment
+com/app/restaurant0/databinding/FragmentInfoBinding.java
+ com.app.restaurant0.databinding.FragmentInfoBinding
+com/app/restaurant0/model/InfoNews.java
+ com.app.restaurant0.model.InfoNews
+com/app/restaurant0/DataBindingTriggerClass.java
+ com.app.restaurant0.DataBindingTriggerClass
+com/app/restaurant0/databinding/ActivityMainBinding.java
+ com.app.restaurant0.databinding.ActivityMainBinding
+com/app/restaurant0/databinding/ActivityComentBinding.java
+ com.app.restaurant0.databinding.ActivityComentBinding
+com/app/restaurant0/BuildConfig.java
+ com.app.restaurant0.BuildConfig
+com/app/restaurant0/databinding/ActivityHomeBinding.java
+ com.app.restaurant0.databinding.ActivityHomeBinding
+com/app/restaurant0/databinding/ActivityLoginBinding.java
+ com.app.restaurant0.databinding.ActivityLoginBinding
+com/app/restaurant0/databinding/ItemFeedbackBinding.java
+ com.app.restaurant0.databinding.ItemFeedbackBinding
+com/app/restaurant0/databinding/FragmentHomeBinding.java
+ com.app.restaurant0.databinding.FragmentHomeBinding
+com/app/restaurant0/activity/HelpActivity.java
+ com.app.restaurant0.activity.HelpActivity
+com/app/restaurant0/databinding/ActivityRenameBinding.java
+ com.app.restaurant0.databinding.ActivityRenameBinding
+com/app/restaurant0/model/RenameFB.java
+ com.app.restaurant0.model.RenameFB
+com/app/restaurant0/model/Model.java
+ com.app.restaurant0.model.Model
+com/app/restaurant0/register/LoginActivity.java
+ com.app.restaurant0.register.LoginActivity
+ com.app.restaurant0.register.LoginActivity$1
+ com.app.restaurant0.register.LoginActivity$2
+ com.app.restaurant0.register.LoginActivity$3
+ com.app.restaurant0.register.LoginActivity$4
+com/app/restaurant0/model/InfoUser.java
+ com.app.restaurant0.model.InfoUser
+com/app/restaurant0/fragments/ProfileFragment.java
+ com.app.restaurant0.fragments.ProfileFragment
+ com.app.restaurant0.fragments.ProfileFragment$1
+ com.app.restaurant0.fragments.ProfileFragment$2
+ com.app.restaurant0.fragments.ProfileFragment$3
+ com.app.restaurant0.fragments.ProfileFragment$3$1
+ com.app.restaurant0.fragments.ProfileFragment$4
+ com.app.restaurant0.fragments.ProfileFragment$4$1
+com/app/restaurant0/register/RegisterActivity.java
+ com.app.restaurant0.register.RegisterActivity
+ com.app.restaurant0.register.RegisterActivity$1
+ com.app.restaurant0.register.RegisterActivity$2
+ com.app.restaurant0.register.RegisterActivity$3
+ com.app.restaurant0.register.RegisterActivity$3$1
+com/app/restaurant0/recyclerView/MyInfoNews.java
+ com.app.restaurant0.recyclerView.MyInfoNews
+ com.app.restaurant0.recyclerView.MyInfoNews$myinfoholder
+com/app/restaurant0/model/InfoRes.java
+ com.app.restaurant0.model.InfoRes
+com/app/restaurant0/databinding/FragmentRestBinding.java
+ com.app.restaurant0.databinding.FragmentRestBinding
+com/app/restaurant0/databinding/ActivityHelpBinding.java
+ com.app.restaurant0.databinding.ActivityHelpBinding
+com/app/restaurant0/databinding/ActivityReservationBinding.java
+ com.app.restaurant0.databinding.ActivityReservationBinding
+com/app/restaurant0/MainActivity.java
+ com.app.restaurant0.MainActivity
+com/app/restaurant0/fragments/HomeFragment.java
+ com.app.restaurant0.fragments.HomeFragment
+com/app/restaurant0/fragments/RestFragment.java
+ com.app.restaurant0.fragments.RestFragment
+com/app/restaurant0/databinding/ItemCardRestBinding.java
+ com.app.restaurant0.databinding.ItemCardRestBinding
+com/app/restaurant0/splash/SplashScreen.java
+ com.app.restaurant0.splash.SplashScreen
+ com.app.restaurant0.splash.SplashScreen$1
+com/app/restaurant0/model/MyAdapter.java
+ com.app.restaurant0.model.MyAdapter
+ com.app.restaurant0.model.MyAdapter$myviewholder
+com/app/restaurant0/databinding/ItemNewsBinding.java
+ com.app.restaurant0.databinding.ItemNewsBinding
+com/app/restaurant0/activity/RenameActivity.java
+ com.app.restaurant0.activity.RenameActivity
+ com.app.restaurant0.activity.RenameActivity$1
+ com.app.restaurant0.activity.RenameActivity$2
+com/app/restaurant0/databinding/ActivitySplashBinding.java
+ com.app.restaurant0.databinding.ActivitySplashBinding
+com/app/restaurant0/databinding/FragmentProfileBinding.java
+ com.app.restaurant0.databinding.FragmentProfileBinding
+com/app/restaurant0/databinding/ActivityRegisterBinding.java
+ com.app.restaurant0.databinding.ActivityRegisterBinding
+com/app/restaurant0/databinding/FragmentRenameBinding.java
+ com.app.restaurant0.databinding.FragmentRenameBinding
+com/app/restaurant0/recyclerView/MyInfoRes.java
+ com.app.restaurant0.recyclerView.MyInfoRes
+ com.app.restaurant0.recyclerView.MyInfoRes$myviewholder
+com/app/restaurant0/activity/ReservationActivity.java
+ com.app.restaurant0.activity.ReservationActivity
